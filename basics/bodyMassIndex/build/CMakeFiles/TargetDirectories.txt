@@ -1,0 +1,3 @@
+/home/sebastian/Documents/cppProgramming/basics/bodyMassIndex/build/CMakeFiles/rebuild_cache.dir
+/home/sebastian/Documents/cppProgramming/basics/bodyMassIndex/build/CMakeFiles/bodyMassIndex.dir
+/home/sebastian/Documents/cppProgramming/basics/bodyMassIndex/build/CMakeFiles/edit_cache.dir

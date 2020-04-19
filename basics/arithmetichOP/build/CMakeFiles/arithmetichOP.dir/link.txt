@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/arithmetichOP.dir/arithmetichOP.cpp.o  -o arithmetichOP 
