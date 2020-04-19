@@ -1,0 +1,3 @@
+/home/sebastian/Documents/c++Programming/basics/varibles/build/CMakeFiles/rebuild_cache.dir
+/home/sebastian/Documents/c++Programming/basics/varibles/build/CMakeFiles/variables.dir
+/home/sebastian/Documents/c++Programming/basics/varibles/build/CMakeFiles/edit_cache.dir
