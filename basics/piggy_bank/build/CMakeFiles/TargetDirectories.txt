@@ -1,0 +1,3 @@
+/home/sebastian/Documents/cppProgramming/basics/piggy_bank/build/CMakeFiles/rebuild_cache.dir
+/home/sebastian/Documents/cppProgramming/basics/piggy_bank/build/CMakeFiles/piggy_bank.dir
+/home/sebastian/Documents/cppProgramming/basics/piggy_bank/build/CMakeFiles/edit_cache.dir
