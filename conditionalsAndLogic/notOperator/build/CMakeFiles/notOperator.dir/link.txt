@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/notOperator.dir/notOperator.cpp.o  -o notOperator 
