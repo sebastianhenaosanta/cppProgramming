@@ -1,0 +1,3 @@
+/home/sebastian/Documents/cppProgramming/conditionalsAndLogic/coinFlip/build/CMakeFiles/rebuild_cache.dir
+/home/sebastian/Documents/cppProgramming/conditionalsAndLogic/coinFlip/build/CMakeFiles/coinFlip.dir
+/home/sebastian/Documents/cppProgramming/conditionalsAndLogic/coinFlip/build/CMakeFiles/edit_cache.dir

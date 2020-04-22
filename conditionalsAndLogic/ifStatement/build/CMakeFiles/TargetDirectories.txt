@@ -1,0 +1,3 @@
+/home/sebastian/Documents/cppProgramming/conditionalsAndLogic/ifStatement/build/CMakeFiles/rebuild_cache.dir
+/home/sebastian/Documents/cppProgramming/conditionalsAndLogic/ifStatement/build/CMakeFiles/ifStatement.dir
+/home/sebastian/Documents/cppProgramming/conditionalsAndLogic/ifStatement/build/CMakeFiles/edit_cache.dir
