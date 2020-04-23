@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/sortinghat.dir/sortinghat.cpp.o  -o sortinghat 

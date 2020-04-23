@@ -1,0 +1,3 @@
+/home/sebastian/Documents/cppProgramming/conditionalsAndLogic/magicBall/build/CMakeFiles/rebuild_cache.dir
+/home/sebastian/Documents/cppProgramming/conditionalsAndLogic/magicBall/build/CMakeFiles/magicBall.dir
+/home/sebastian/Documents/cppProgramming/conditionalsAndLogic/magicBall/build/CMakeFiles/edit_cache.dir
