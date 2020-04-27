@@ -1,0 +1,3 @@
+/home/sebastian/Documents/cppProgramming/loops/squareWhile/build/CMakeFiles/rebuild_cache.dir
+/home/sebastian/Documents/cppProgramming/loops/squareWhile/build/CMakeFiles/squareWhile.dir
+/home/sebastian/Documents/cppProgramming/loops/squareWhile/build/CMakeFiles/edit_cache.dir

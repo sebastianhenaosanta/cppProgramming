@@ -1,0 +1,3 @@
+/home/sebastian/Documents/cppProgramming/loops/whileGuess/build/CMakeFiles/rebuild_cache.dir
+/home/sebastian/Documents/cppProgramming/loops/whileGuess/build/CMakeFiles/whileGuess.dir
+/home/sebastian/Documents/cppProgramming/loops/whileGuess/build/CMakeFiles/edit_cache.dir
