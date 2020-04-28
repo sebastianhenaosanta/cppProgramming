@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/initialazingVector.dir/initialazingVector.cpp.o  -o initialazingVector 

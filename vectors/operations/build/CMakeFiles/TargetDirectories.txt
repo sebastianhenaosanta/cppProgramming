@@ -1,0 +1,3 @@
+/home/sebastian/Documents/cppProgramming/vectors/operations/build/CMakeFiles/rebuild_cache.dir
+/home/sebastian/Documents/cppProgramming/vectors/operations/build/CMakeFiles/operations.dir
+/home/sebastian/Documents/cppProgramming/vectors/operations/build/CMakeFiles/edit_cache.dir
