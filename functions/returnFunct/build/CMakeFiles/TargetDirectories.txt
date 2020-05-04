@@ -1,0 +1,3 @@
+/home/sebastian/Documents/cppProgramming/functions/returnFunct/build/CMakeFiles/rebuild_cache.dir
+/home/sebastian/Documents/cppProgramming/functions/returnFunct/build/CMakeFiles/returnFunct.dir
+/home/sebastian/Documents/cppProgramming/functions/returnFunct/build/CMakeFiles/edit_cache.dir
