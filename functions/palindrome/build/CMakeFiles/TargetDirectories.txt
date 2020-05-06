@@ -1,0 +1,3 @@
+/home/sebastian/Documents/cppProgramming/functions/palindrome/build/CMakeFiles/rebuild_cache.dir
+/home/sebastian/Documents/cppProgramming/functions/palindrome/build/CMakeFiles/palindrome.dir
+/home/sebastian/Documents/cppProgramming/functions/palindrome/build/CMakeFiles/edit_cache.dir
